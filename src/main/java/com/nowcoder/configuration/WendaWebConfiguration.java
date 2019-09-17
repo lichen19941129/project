@@ -1,6 +1,7 @@
 package com.nowcoder.configuration;
 
 import com.nowcoder.interceptor.LoginRequiredInterceptor;
+
 import com.nowcoder.interceptor.PassportInterceptor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
